@@ -1,6 +1,7 @@
 # Fresh Energy Design Documentation
 
-* (Foreword here)
+* Foreword here
+* Mobile vs Desktop styleguide
 
 ## Components
 
