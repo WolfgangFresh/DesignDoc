@@ -1,6 +1,6 @@
-# Table of contents
+# Fresh Energy Design Documentation
 
-* [Initial page](README.md)
+* (Foreword here)
 
 ## Components
 
